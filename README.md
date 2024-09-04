@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, my name is Luke Pruitt and I am an aspiring IT Professional
 
 <!--
 **luke-pruitt/luke-pruitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
